@@ -2,7 +2,7 @@
 # - fix ac/am scripts to regeneration works
 # - version with db support? ;)
 Summary:	A tool for storing key/value pairs in a hash database
-Summary(pl):	Narzêdzie do zapisywania par klucz/warto¶æ w tablicach haszowanych
+Summary(pl.UTF-8):   NarzÄ™dzie do zapisywania par klucz/wartoÅ›Ä‡ w tablicach haszowanych
 Name:		dbtool
 Version:	1.6
 Release:	1
@@ -22,12 +22,12 @@ both for storing and retrieving of data. It's main advantages are the
 ability to maintain huge amounts of data and speed. dbtool supports
 encrypted databases.
 
-%description -l pl
-dbtool mo¿e byæ u¿ywany do zapisywania i odczytywania danych w
-formacie klucz/warto¶æ w tablicy haszowanej. Kompatybilne z perlem
-wyra¿enia regularne s± obs³ugiwane zarówno dla odczytu jak i zapisu
-danych. G³ównymi celami programu s± zdolno¶æ do zarz±dzania ogromnymi
-ilo¶ciami danych oraz prêdko¶æ. dbtool obs³uguje tak¿e szyfrowane
+%description -l pl.UTF-8
+dbtool moÅ¼e byÄ‡ uÅ¼ywany do zapisywania i odczytywania danych w
+formacie klucz/wartoÅ›Ä‡ w tablicy haszowanej. Kompatybilne z perlem
+wyraÅ¼enia regularne sÄ… obsÅ‚ugiwane zarÃ³wno dla odczytu jak i zapisu
+danych. GÅ‚Ã³wnymi celami programu sÄ… zdolnoÅ›Ä‡ do zarzÄ…dzania ogromnymi
+iloÅ›ciami danych oraz prÄ™dkoÅ›Ä‡. dbtool obsÅ‚uguje takÅ¼e szyfrowane
 bazy.
 
 %prep
