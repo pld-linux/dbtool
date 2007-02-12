@@ -2,7 +2,7 @@
 # - fix ac/am scripts to regeneration works
 # - version with db support? ;)
 Summary:	A tool for storing key/value pairs in a hash database
-Summary(pl.UTF-8):   Narzędzie do zapisywania par klucz/wartość w tablicach haszowanych
+Summary(pl.UTF-8):	Narzędzie do zapisywania par klucz/wartość w tablicach haszowanych
 Name:		dbtool
 Version:	1.6
 Release:	1
